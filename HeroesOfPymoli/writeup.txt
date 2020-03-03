@@ -1,0 +1,7 @@
+Here are three trends that I've observed based on the calcuations I've run using pandas:
+
+1. Heroes of Pymoli's item-purchasing base is primarily between the ages of 15-19. The age range of 20-24 in particular makes up nearly half (44.79%) of the player base that purchases items. This makes sense, as most gamers are younger, and many wouldn't be able to buy anything until at least their teens.
+
+2. It doesn't appear as if price has much impact on purchase amount. The five most popular items, for example, vary widely in price range (the top 4 items are all much more expensive than the 5th most) and a similar amount of variation can be seen at the bottom. Perhaps this is because all of the items are relatively cheap so price differences don't matter too much. Additionally, players likely care more about what the items do or what they look like than the price.
+
+3. Though there are many more male players than female players (484 to 81), the female players buy items at a slightly higher rate and have a slightly higher total average purchase. The numbers are still roughly in the same ballpark, though, and the lower number of female players may add more variation. Overall, gender doesn't seem to affect purchasing all that much. Perhaps female players are more likely to buy optional items to accessorize their experience further.
